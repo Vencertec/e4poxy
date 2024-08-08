@@ -1,0 +1,9 @@
+node_modules/
+node_modules/*
+package-lock.json
+public/*
+public
+package-lock.json
+.vscode
+.env
+client/package.json
